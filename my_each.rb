@@ -7,4 +7,4 @@ def my_each(s) # put argument(s) here
   end
 end
 
-my_each(4)
+my_each(["James"])
