@@ -1,6 +1,6 @@
 def my_each(s) # put argument(s) here
   # code here
-  num = 1
+  num = 0
   while num < s.length
     yield s[num]
     num += 1
