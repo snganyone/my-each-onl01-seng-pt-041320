@@ -6,3 +6,5 @@ def my_each(s) # put argument(s) here
     num += 1
   end
 end
+
+my_each(4)
