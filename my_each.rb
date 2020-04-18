@@ -3,6 +3,6 @@ def my_each(s) # put argument(s) here
   num = 0
   while num < s.size
     yield s[num]
-    s = s + 1
+    num += 1
   end
 end
