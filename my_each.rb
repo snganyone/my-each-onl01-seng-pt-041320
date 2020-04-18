@@ -7,4 +7,3 @@ def my_each(s) # put argument(s) here
     counter += 1
   end
 end
-cla
